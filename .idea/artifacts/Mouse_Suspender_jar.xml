@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Mouse-Suspender:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Mouse_Suspender_jar</output-path>
+    <root id="archive" name="Mouse-Suspender.jar">
+      <element id="module-output" name="Mouse-Suspender" />
+    </root>
+  </artifact>
+</component>
